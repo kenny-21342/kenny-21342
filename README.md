@@ -1,4 +1,4 @@
-Just a student and try to look something fun on GitHub. Also will write some code sometimes.
+Hello everyone. I'm Kenny. Just a student and try to look something fun on GitHub. Also will write some simple code sometimes.
 
 <!---
 kenny-21342/kenny-21342 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
