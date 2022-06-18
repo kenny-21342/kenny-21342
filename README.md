@@ -1,6 +1,9 @@
-Hello everyone. I'm Kenny. Just a student and try to look something fun on GitHub. Also will write some simple code sometimes.
+Hello everyone. I'm Kenny. I'm a Chinese person, which means that accessing GitHub is really hard for me. 
 
-<!---
-kenny-21342/kenny-21342 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+It's my pleasure to join this such big developer community: GitHub. 
+
+I'm just a student and try to look something fun on GitHub. Also will write some simple code sometimes.
+
+Contact: linhongsheng07@gmail.com or kennymblock1234567@outlook.com
+
+Hanson is my friend. This is his personal GitHub Description Page: https://github.com/HansonXHC
