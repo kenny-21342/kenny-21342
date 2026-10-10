@@ -1,3 +1,1 @@
-I'm just a student and try to look for something fun on GitHub. Also will write some simple code sometimes.
-
-Contact: linhongsheng07@gmail.com or kennymblock1234567@outlook.com
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/kenny-21342?theme=dark)](https://ghfind.com/u/kenny-21342?ref=badge)
